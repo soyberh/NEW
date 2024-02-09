@@ -1,0 +1,35 @@
+.flag{
+    border-radius: 1cm;
+}
+.form{
+    font-size: xx-large;
+    background-image: url(download.jpg) ;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding: 2cm;
+    padding-top: 1cm;
+    color: chocolate;
+    font-family: 'poppins',sans-serif;
+}
+u{
+    font-size: xx-large;
+}
+.Gender{
+    background-color: whitesmoke;
+    font-size: xx-large;
+    position: relative;
+    bottom: 4cm;
+}
+a{
+    border-style: solid;
+    position: relative;
+    left: 27cm;
+    bottom: 5.5cm;
+    font-size: x-large;
+}
+.opt{
+     padding: 0.5cm;
+     padding-bottom: 5px;
+     padding-top: 5px;
+     font-size: 0.5cm;
+}

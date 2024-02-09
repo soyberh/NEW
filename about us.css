@@ -1,0 +1,20 @@
+.back{
+    position: relative;
+    left: 27.5cm;
+    bottom: 5.5cm;
+    font-size: x-large;
+    border-style: solid;
+}
+.img{
+    border-radius: 0.5cm;
+}
+U{
+    position: relative;
+    left: 5cm;
+    bottom: 3cm;
+    font-size: 1.5cm;
+    color: blue;
+}
+.us{
+    font-size: large;
+}

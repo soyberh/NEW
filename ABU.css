@@ -1,0 +1,35 @@
+
+a{
+    margin: 1cm;
+    font-size: xx-large;
+    border-style: solid;
+    position: relative;
+    bottom: 2cm;
+    left: 2cm;
+}
+p{
+    position: relative;
+    font-size: xx-large;
+}
+u{
+    position: relative;
+    font-size: xx-large;
+}
+.f{
+    position: relative;
+    bottom: 7cm;
+    left: 5.2cm;
+    border-radius: 1cm;
+}
+h3{
+    position: relative;
+    bottom: 7cm;
+    font-size: xx-large;
+    left: 5cm;
+}
+.lass{
+    position: relative;
+    left: 5cm;
+    bottom: 8cm;
+    border-radius: 1cm;
+}

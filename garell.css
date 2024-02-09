@@ -1,0 +1,47 @@
+u{
+    position: relative;
+    left: 10cm;
+    bottom: 3cm;
+    font-size: 1cm;
+    color: blue;
+}
+.back{
+    position: relative;
+    left: 27.5cm;
+    bottom: 5.5cm;
+    border-style: solid;
+    font-size: x-large;
+}
+.c1{
+    position: relative;
+    right: 5cm;
+    border-radius: 1cm;
+}
+.c2{
+    position: relative;
+    left: 14cm;
+    bottom: 12cm;
+    border-radius: 0.5cm;
+}
+.c3{
+    position: relative;
+    bottom: 11cm;
+    border-radius: 0.5cm;
+}
+.c4{
+    position: relative;
+    left: 25cm;
+    bottom: 25cm;
+    border-radius: 0.5cm;
+}
+.c5{
+    position: relative;
+    bottom: 23cm;
+    border-radius: 0.5cm;
+}
+.c6{
+    position: relative;
+    left: 25cm;
+    bottom: 37cm;
+    border-radius: 0.5cm;
+}

@@ -1,0 +1,37 @@
+body{
+    background-color: chocolate;
+}
+h2{
+    position: relative;
+    left: 33cm;
+    bottom: 7cm;
+    box-shadow: 0 0 0 10px #561616;
+    width: 1.8cm;
+}
+.upd{
+    font-size: xx-large;
+}
+p{
+   font-size: 1.5cm;
+}
+.s{
+    position: relative;
+    bottom: 17cm;
+    font-size: 1cm;
+}
+.trd{
+    position: relative;
+    bottom: 14.5cm;
+    left: 2cm;
+    font-size: 1cm;
+}
+h3{
+    position: relative;
+    bottom: 16cm;
+    font-size: 1.5cm;
+    left: 2cm;
+}
+.opt{
+    padding: 0.3cm;
+    font-size: x-large;
+}
